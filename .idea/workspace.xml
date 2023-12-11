@@ -9,7 +9,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21e8ae4a-c718-4d34-a11f-efe8de60a8a9" name="Changes" comment="" />
+    <list default="true" id="21e8ae4a-c718-4d34-a11f-efe8de60a8a9" name="Changes" comment="init">
+      <change afterPath="$PROJECT_DIR$/Auditoriska_vezba_8/zad3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,41 +21,40 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2WgO5SP4NDv0E2DR9DPu8HldYmk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/mrozi/CLionProjects/Strukturno programiranje&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;structure.view.defaults.are.configured&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/mrozi/CLionProjects/Strukturno programiranje",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "structure.view.defaults.are.configured": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\mrozi\CLionProjects\Strukturno programiranje\Auditoriska vezba 1" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.zad2.cpp (2)">
-    <configuration name="zad1.cpp (2)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Strukturno programiranje" TARGET_NAME="zad1.cpp" CONFIG_NAME="zad1.cpp">
-      <option name="sourceFile" value="Auditoriska_vezba_7\zad1.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="C/C++ File.zad3.cpp">
     <configuration name="zad1.cpp (3)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Strukturno programiranje" TARGET_NAME="zad1.cpp" CONFIG_NAME="zad1.cpp">
       <option name="sourceFile" value="Labs 6\zad1.cpp" />
       <method v="2">
@@ -77,13 +79,19 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="zad3.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Strukturno programiranje" TARGET_NAME="zad3.cpp" CONFIG_NAME="zad3.cpp">
+      <option name="sourceFile" value="Auditoriska_vezba_8\zad3.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.zad3.cpp" />
         <item itemvalue="C/C++ File.zad2.cpp (2)" />
         <item itemvalue="C/C++ File.zad1.cpp" />
         <item itemvalue="C/C++ File.zad2.cpp (1)" />
         <item itemvalue="C/C++ File.zad1.cpp (3)" />
-        <item itemvalue="C/C++ File.zad1.cpp (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -126,11 +134,24 @@
       <workItem from="1702041833502" duration="1110000" />
       <workItem from="1702214063400" duration="5257000" />
       <workItem from="1702327781011" duration="910000" />
+      <workItem from="1702329205250" duration="1656000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1702329315125</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702329315125</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1714,6 +1735,56 @@
           <url>file://$PROJECT_DIR$/Auditoriska_vezba_8/zad1.cpp</url>
           <line>13</line>
           <option name="timeStamp" value="1395" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Auditoriska_vezba_8/zad3.cpp</url>
+          <line>8</line>
+          <option name="timeStamp" value="1396" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Auditoriska_vezba_8/zad3.cpp</url>
+          <line>7</line>
+          <option name="timeStamp" value="1397" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Auditoriska_vezba_8/zad3.cpp</url>
+          <line>9</line>
+          <option name="timeStamp" value="1399" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Auditoriska_vezba_8/zad3.cpp</url>
+          <line>12</line>
+          <option name="timeStamp" value="1401" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Auditoriska_vezba_8/zad3.cpp</url>
+          <line>13</line>
+          <option name="timeStamp" value="1402" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Auditoriska_vezba_8/zad3.cpp</url>
+          <line>15</line>
+          <option name="timeStamp" value="1403" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Auditoriska_vezba_8/zad3.cpp</url>
+          <line>16</line>
+          <option name="timeStamp" value="1404" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Auditoriska_vezba_8/zad3.cpp</url>
+          <line>18</line>
+          <option name="timeStamp" value="1405" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Auditoriska_vezba_8/zad3.cpp</url>
+          <line>19</line>
+          <option name="timeStamp" value="1406" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Auditoriska_vezba_8/zad3.cpp</url>
+          <line>20</line>
+          <option name="timeStamp" value="1407" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
