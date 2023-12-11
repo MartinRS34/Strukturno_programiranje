@@ -22,6 +22,6 @@ int main() {
     if (isti_se == 1) {
         cout << "Nizite se isti!";
     } else {
-        cout << "Nizite se razlicni";
+        cout << "Nizite fefefese razlicni";
     }
 }
