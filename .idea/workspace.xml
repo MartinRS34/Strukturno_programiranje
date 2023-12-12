@@ -10,9 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21e8ae4a-c718-4d34-a11f-efe8de60a8a9" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/Auditoriska_vezba_8/zad4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Auditoriska_vezba_8/zad5.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Auditoriska_vezba_8/zad3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Auditoriska_vezba_8/zad3.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,15 +55,9 @@
       <recent name="C:\Users\mrozi\CLionProjects\Strukturno programiranje\Auditoriska vezba 1" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.zad4.cpp">
+  <component name="RunManager" selected="C/C++ File.zad5.cpp">
     <configuration name="zad1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Strukturno programiranje" TARGET_NAME="zad1.cpp" CONFIG_NAME="zad1.cpp (2)">
       <option name="sourceFile" value="Auditoriska_vezba_8\zad1.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="zad2.cpp (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Strukturno programiranje" TARGET_NAME="zad2.cpp" CONFIG_NAME="zad2.cpp">
-      <option name="sourceFile" value="Labs 6\zad2.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -87,13 +80,19 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="zad5.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Strukturno programiranje" TARGET_NAME="zad5.cpp" CONFIG_NAME="zad5.cpp">
+      <option name="sourceFile" value="Auditoriska_vezba_8\zad5.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.zad5.cpp" />
         <item itemvalue="C/C++ File.zad4.cpp" />
         <item itemvalue="C/C++ File.zad3.cpp" />
         <item itemvalue="C/C++ File.zad2.cpp (2)" />
         <item itemvalue="C/C++ File.zad1.cpp" />
-        <item itemvalue="C/C++ File.zad2.cpp (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +135,7 @@
       <workItem from="1702041833502" duration="1110000" />
       <workItem from="1702214063400" duration="5257000" />
       <workItem from="1702327781011" duration="910000" />
-      <workItem from="1702329205250" duration="3290000" />
+      <workItem from="1702329205250" duration="4628000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1702329315125</created>
@@ -173,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702338777292</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="init">
+      <created>1702340058495</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1702340058495</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1788,21 +1794,6 @@
           <url>file://$PROJECT_DIR$/Auditoriska_vezba_8/zad1.cpp</url>
           <line>13</line>
           <option name="timeStamp" value="1395" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/Auditoriska_vezba_8/zad4.cpp</url>
-          <line>8</line>
-          <option name="timeStamp" value="1418" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/Auditoriska_vezba_8/zad4.cpp</url>
-          <line>7</line>
-          <option name="timeStamp" value="1419" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/Auditoriska_vezba_8/zad4.cpp</url>
-          <line>6</line>
-          <option name="timeStamp" value="1420" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
