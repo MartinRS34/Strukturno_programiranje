@@ -9,7 +9,15 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21e8ae4a-c718-4d34-a11f-efe8de60a8a9" name="Changes" comment="init" />
+    <list default="true" id="21e8ae4a-c718-4d34-a11f-efe8de60a8a9" name="Changes" comment="init">
+      <change afterPath="$PROJECT_DIR$/Auditoriska_vezba_8/Matrici/zad1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Auditoriska_vezba_8/Matrici/zad2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs7/zad1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs7/zad2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zad1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/zad1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zad2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/zad2.exe" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,9 +60,27 @@
       <recent name="C:\Users\mrozi\CLionProjects\Strukturno programiranje\Auditoriska vezba 1" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.zad3.cpp">
-    <configuration name="zad2.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Strukturno programiranje" TARGET_NAME="zad2.cpp" CONFIG_NAME="zad2.cpp">
-      <option name="sourceFile" value="Labs 6\zad2.cpp" />
+  <component name="RunManager" selected="C/C++ File.zad2.cpp (2)">
+    <configuration name="zad1.cpp (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Strukturno programiranje" TARGET_NAME="zad1.cpp" CONFIG_NAME="zad1.cpp">
+      <option name="sourceFile" value="Labs7\zad1.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Strukturno programiranje" TARGET_NAME="zad1.cpp" CONFIG_NAME="zad1.cpp">
+      <option name="sourceFile" value="Auditoriska_vezba_8\Matrici\zad1.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad2.cpp (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Strukturno programiranje" TARGET_NAME="zad2.cpp" CONFIG_NAME="zad2.cpp">
+      <option name="sourceFile" value="Auditoriska_vezba_8\Matrici\zad2.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad2.cpp (2)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Strukturno programiranje" TARGET_NAME="zad2.cpp" CONFIG_NAME="zad2.cpp">
+      <option name="sourceFile" value="Labs7\zad2.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -65,31 +91,13 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zad6.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Strukturno programiranje" TARGET_NAME="zad6.cpp" CONFIG_NAME="zad6.cpp">
-      <option name="sourceFile" value="Auditoriska_vezba_8\zad6.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="zad7.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Strukturno programiranje" TARGET_NAME="zad7.cpp" CONFIG_NAME="zad7.cpp">
-      <option name="sourceFile" value="Auditoriska_vezba_8\zad7.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="zad8.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Strukturno programiranje" TARGET_NAME="zad8.cpp" CONFIG_NAME="zad8.cpp">
-      <option name="sourceFile" value="Auditoriska_vezba_8\zad8.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.zad2.cpp (2)" />
+        <item itemvalue="C/C++ File.zad1.cpp (1)" />
+        <item itemvalue="C/C++ File.zad2.cpp (1)" />
+        <item itemvalue="C/C++ File.zad1.cpp" />
         <item itemvalue="C/C++ File.zad3.cpp" />
-        <item itemvalue="C/C++ File.zad2.cpp" />
-        <item itemvalue="C/C++ File.zad8.cpp" />
-        <item itemvalue="C/C++ File.zad7.cpp" />
-        <item itemvalue="C/C++ File.zad6.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +141,7 @@
       <workItem from="1702214063400" duration="5257000" />
       <workItem from="1702327781011" duration="910000" />
       <workItem from="1702329205250" duration="6007000" />
-      <workItem from="1702423549123" duration="13787000" />
+      <workItem from="1702423549123" duration="24210000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1702329315125</created>
@@ -198,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702505030647</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="init">
+      <created>1702505062693</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1702505062693</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
