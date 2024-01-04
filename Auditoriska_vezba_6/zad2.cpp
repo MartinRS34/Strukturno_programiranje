@@ -2,18 +2,24 @@
 
 using namespace std;
 
-int delime_broj(int broj) {
-    int zbir=broj/100 + broj%100;
+int zbir_na_cifrite(int number) {
+    int zbir = 0;
+    int z1 = number / 100;
+    int z2 = number % 100;
+    zbir = z1 + z2;
     return zbir;
 }
+
+
 int main() {
-    int count=0;
-    for (int i = 1000; i <= 9999; ++i) {
-        int zbir = delime_broj(i);
-        if (i % delime_broj(i) == 0) {
-            cout << i << endl;
-            count++;
+    int broj;
+    int brojac = 0;
+    cin >> broj;
+    int deli = zbir_na_cifrite(broj);
+    for (int i = 1000; i < 10000; ++i) {
+        if (i % deli == 0) {
+            brojac++;
         }
     }
-    cout<<"Vkupno takvi broevi se: "<<count;
+    cout << "Zbirot na cifrite e: " << deli << " takvi broevi postojat: " << brojac;
 }
