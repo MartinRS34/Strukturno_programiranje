@@ -16,12 +16,9 @@ float plostina(int pp){
 int main(){
     int radius;
     cin>>radius;
-    float diam=0;
-    diam= diametar(radius);
-    float peri=0;
-    peri= perimetar(radius);
-    float plost=0;
-    plost= plostina(radius);
+    float D= diametar(radius);
+    float L= perimetar(radius);
+    float P= plostina(radius);
 
-    cout<<"Diametar: "<<diam<<endl<<"Perimetar: "<<peri<<endl<<"Plostina:"<<plost;
+    cout<<"Diametar: "<<D<<endl<<"Perimetar: "<<L<<endl<<"Plostina: "<<P;
 }
